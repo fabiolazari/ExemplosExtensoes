@@ -1,0 +1,11 @@
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.exe
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.deps.json
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.runtimeconfig.json
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.runtimeconfig.dev.json
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.dll
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\bin\Debug\netcoreapp3.1\ExemplosExtensoes.pdb
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\obj\Debug\netcoreapp3.1\ExemplosExtensoes.csprojAssemblyReference.cache
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\obj\Debug\netcoreapp3.1\ExemplosExtensoes.AssemblyInfoInputs.cache
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\obj\Debug\netcoreapp3.1\ExemplosExtensoes.AssemblyInfo.cs
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\obj\Debug\netcoreapp3.1\ExemplosExtensoes.dll
+C:\Users\Fábio Costa\source\repos\ExemplosExtensoes\ExemplosExtensoes\obj\Debug\netcoreapp3.1\ExemplosExtensoes.pdb
