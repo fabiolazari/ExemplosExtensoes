@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kENfie4kMIh0vMAW6krRn1YJ+/09bRovSf2oGjZvdWjf31p+TdQ0zpJMxX9KEKeltNbqSqvGIhKvcRDwpnXMaw==",
+  "dgSpecHash": "L57iCDY+VrznCFdYEWufGcWgpXAedrJ59zWzgtE1Lv7LGHrMX+GVmbRTjM5oxC8XjTbxl48sx31RRgyj/DN6tw==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\Informatica\\z Projetos\\C#\\ExemplosExtensoes\\ExemplosExtensoes\\ExemplosExtensoes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Meus\\repository\\github\\ExemplosExtensoes\\ExemplosExtensoes\\ExemplosExtensoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
